@@ -1,0 +1,10 @@
+a = () {
+    readline();
+};
+
+b = {
+    readline();
+};
+
+println("A: " + a());
+println("B: " + b);
